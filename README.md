@@ -1,3 +1,7 @@
+# NETLIFY:- https://keeperapp0001.netlify.app/
+# VERCEL:- https://keeper-app-rose-phi.vercel.app/
+
+
 # 📝 Keeper App
 
 A clean and minimal note-taking web application built using **React** and styled with **Tailwind CSS**. Inspired by Google Keep, this app lets users create, view, and delete short notes in a beautifully simple UI.
